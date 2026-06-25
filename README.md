@@ -111,10 +111,12 @@ An interactive dashboard was built with the following KPIs and visuals:
 
 ## 👤 Author
 
-**[Your Name]**  
-[LinkedIn Profile URL] | [Email]
+**[misthi jaiswal]**  
 
 ---
+<img width="937" height="512" alt="image" src="https://github.com/user-attachments/assets/4f9116db-5a3d-4497-aa21-db7c66207792" />
+<img width="936" height="515" alt="image" src="https://github.com/user-attachments/assets/54814b74-e4c6-4d53-864a-c9a78c6c14ce" />
+<img width="940" height="507" alt="image" src="https://github.com/user-attachments/assets/52de3711-9cbf-470d-a78b-b8df4918db6e" />
 
 ## 📄 License
 
